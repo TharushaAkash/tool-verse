@@ -19,7 +19,7 @@
 }
 
 .card h2 {
-  color: white;
+  color:var(--subtext-color);
   font-size: 18px;
 }
 
