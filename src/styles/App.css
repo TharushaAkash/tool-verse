@@ -1,0 +1,18 @@
+body {
+  margin: 0;
+  font-family: sans-serif;
+  background-color: var(--bg-color);
+  color: var(--text-color);
+}
+
+.app {
+  min-height: 100vh;
+}
+
+.grid {
+  padding: 20px;
+  display: grid;
+  gap: 20px;
+
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+}
