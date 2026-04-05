@@ -9,7 +9,7 @@ export default function App() {
       <Navbar />
 
       <div className="grid">
-        {tools.map((tool) => (
+        {tools.map((tool, ) => (
           <ToolCard key={tool.id} tool={tool} />
         ))}
       </div>

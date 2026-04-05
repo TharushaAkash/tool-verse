@@ -31,3 +31,22 @@
   color: #3b82f6;
   margin-bottom: 8px;
 }
+
+/* Make the container a circle and center the image */
+.icon {
+  width: 60px;               /* circle size */
+  height: 60px;
+  border-radius: 50%;        /* makes it circular */
+  overflow: hidden;          /* crop image to circle */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: var(--card-color); /* optional: circle background */
+}
+
+/* Make the image fit nicely inside the circle */
+.tool-logo {
+  width: 100%;
+  height: 100%;
+  object-fit: cover; /* ensures it fills the circle without stretching */
+}
