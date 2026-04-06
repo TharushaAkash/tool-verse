@@ -40,5 +40,14 @@ export const tools = [
     icon: "https://spinbot.com/img/svg/aboutSpinbot.svg",
     category: "Writing",
     url: "https://spinbot.com/"
-  }
+  },
+
+  {
+    id: 6,
+    name: "Free Public APIs",
+    description: "Access a collection of free public APIs for various purposes",
+    icon: "https://www.freepublicapis.com/voxgig.png",
+    category: "Development",
+    url: "https://www.freepublicapis.com/",
+  },
 ];
