@@ -3,7 +3,7 @@ export const tools = [
     id: 1,
     name: "Background Remover",
     description: "Remove image background instantly",
-    icon: "/src/assets/tools/bgremover.png",
+    icon: "https://aitoolscoop.com/wp-content/uploads/2026/03/remove.png",
     category: "Image",
     url: "https://www.remove.bg/upload",
   },
