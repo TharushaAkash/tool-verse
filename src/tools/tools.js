@@ -32,4 +32,13 @@ export const tools = [
     category: "Document",
     url: "https://tools.pdf24.org/en/",
   },
+
+  {
+    id: 5,
+    name: "online Paraphraser and Grammar checker(FREE).",
+    description: "Paraphrase text, summarize and check grammar online",
+    icon: "https://spinbot.com/img/svg/aboutSpinbot.svg",
+    category: "Writing",
+    url: "https://spinbot.com/"
+  }
 ];
