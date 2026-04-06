@@ -23,4 +23,13 @@ export const tools = [
     category: "Video",
     url: "https://v1.ytmp3.gs/",
   },
+
+  {
+    id: 4,
+    name: "Online PDF Converter",
+    description: "Convert PDF files to various formats online",
+    icon: "	https://tools.pdf24.org/static/img/pageIcons/svg/default.svg?v=5cae54fd",
+    category: "Document",
+    url: "https://tools.pdf24.org/en/",
+  },
 ];
