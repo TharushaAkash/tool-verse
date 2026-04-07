@@ -50,4 +50,31 @@ export const tools = [
     category: "Development",
     url: "https://www.freepublicapis.com/",
   },
+
+  {
+    id: 7,
+    name: "Online Compilers and Tutorials for Programming",
+    description: "C/C++, Java, and other popular programming languages tutorials, examples, online compiler and references",
+    icon: "https://cdn.programiz.com/sites/tutorial2program/files/sp_logo.svg",
+    category: "Development",
+    url: "https://www.programiz.com/",
+  },
+
+  {
+    id: 8,
+    name: "Free APIs for AI-Tools",
+    description: "Access a collection of free APIs for various models, LLMS like qwen, GLM and many more...",
+    icon: "https://pnghdpro.com/wp-content/themes/pnghdpro/download/social-media-and-brands/openrouter-icon-hd.png",
+    category: "Development",
+    url: "https://openrouter.ai/",
+  },
+
+  {
+    id: 9,
+    name: "Start coding without the complex setup",
+    description: "Write your code in 100+ languages and frameworks with no local setup.",
+    icon: "https://www.jdoodle.com/favicon.ico",
+    category: "Development",
+    url: "https://www.jdoodle.com/",
+  },
 ];
