@@ -5,7 +5,7 @@ export const tools = [
     description: "Remove image background instantly",
     icon: "https://aitoolscoop.com/wp-content/uploads/2026/03/remove.png",
     category: "Image",
-    url: "https://www.remove.bg/upload",
+    url: "https://play-lh.googleusercontent.com/4kF2IUQxdLs86iAVsmnHA1B34uO-dvtszKM8qzscc1InZb-2_JI0WANyOiWiV3qyNg",
   },
   {
     id: 2,
