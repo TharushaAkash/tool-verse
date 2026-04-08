@@ -27,7 +27,7 @@ export default function Navbar() {
 
     return (
         <div className="navbar">
-            <h1 className="logo">ToolVerse <img src={logo} alt="ToolVerse Logo" /></h1>
+            <h1 className="logo">Tool Verse <img src={logo} alt="ToolVerse Logo" className="logo-img" /></h1>
 
             <div className="nav-right">
                 <input className="search" placeholder="Search tools..." />
