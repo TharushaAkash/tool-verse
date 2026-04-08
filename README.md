@@ -1,8 +1,11 @@
-# 🛠️ Tool Verse
-
-A curated collection of web tools and utilities to simplify your digital workflow. From image manipulation to video conversion, Tool Verse brings the best tools together in one place.
 
 <div align="center">
+
+<img src="./readme_assets/logo.png">
+
+# Tool Verse
+
+A curated collection of web tools and utilities to simplify your digital workflow. From image manipulation to 
 
 [![Maintained](https://img.shields.io/badge/Maintained-Yes-2ea44f?style=for-the-badge)](#)
 [![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](LICENSE)
@@ -63,7 +66,7 @@ We welcome contributions from everyone! Whether you're fixing a bug, improving d
 
 Adding a new tool to Tool Verse is simple! You just need to update one file.
 
-1.  Navigate to `src/tools/tools.js`.
+1.  Navigate to [src/tools/tools.js](src/tools/tools.js).
 2.  Add a new tool object to the `tools` array. Each tool should have the following structure:
 
 ```javascript
