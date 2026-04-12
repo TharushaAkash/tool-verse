@@ -77,4 +77,14 @@ export const tools = [
     category: "Development",
     url: "https://www.jdoodle.com/",
   },
+
+  {
+    id: 10,
+    name: "Free All tools",
+    description: "Access a collection of free tools for various purposes",
+    icon: "https://www.freetools.lk/icon.png",
+    category: "All",
+    url: "https://www.freetools.lk/",
+
+  }
 ];
