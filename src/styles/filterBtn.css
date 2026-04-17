@@ -7,22 +7,23 @@
 
 .filter-buttons button {
    padding: 8px 15px;
-   border: 1px solid#ccc;
-   background: white;
+   border: 1px solid var(--border-color);
+   background: var(--card-color);
    border-radius: 4px;
    cursor: pointer;
    font-size: 14px;
+   color: var(--text-color);
 }
 
 .filter-buttons button.active {
-  background: #007bff;
+  background: #3b82f6;
   color: white;
   font-weight: bold;
-  border-color: #007bff;  
+  border-color: #3b82f6;
 }
 
 .filter-buttons button:hover {
-  background: #f0f0f0
+  background: #3b82f6;
 }
 
 .filter-buttons button.active:hover {
