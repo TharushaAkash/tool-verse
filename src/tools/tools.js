@@ -86,5 +86,14 @@ export const tools = [
     category: "All",
     url: "https://www.freetools.lk/",
 
+  },
+
+  {
+    id: 11,
+    name: "Download GIT Hub directories",
+    description: "Download github folders easily(Not repos)",
+    icon: "https://avatars.githubusercontent.com/u/35223010?s=200&v=4",
+    category: "Development",
+    url: "https://download-directory.github.io/"
   }
 ];
